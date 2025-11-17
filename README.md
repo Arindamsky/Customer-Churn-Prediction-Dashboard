@@ -25,7 +25,7 @@ The app provides real-time predictions using a trained ML model deployed through
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/your-username/churn-prediction-dashboard
+   git clone https://github.com/Arindamsky/Customer-Churn-Prediction-Dashboard
    cd churn-prediction-dashboard
 
 2.Install dependencies
